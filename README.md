@@ -2,7 +2,7 @@
 
 # Usage
 python instagram.py  [Username]  [wordlist]
-
+chmod -R 755 Instagram && cd Instagram
 `python instagram.py username103 pass.lst`
 
 ## Requirements
